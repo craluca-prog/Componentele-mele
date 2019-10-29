@@ -1,0 +1,2 @@
+# Componentele-mele
+Mici proiecte
